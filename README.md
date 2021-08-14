@@ -18,8 +18,6 @@
   <img align="center" alt="Pedro-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   </div>
   
-  
-  https://api.whatsapp.com/send/?phone=5551991218191&text=Ola%2C+Pedro&app_absent=0
   ##
   
 <div>
